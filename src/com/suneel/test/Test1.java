@@ -8,7 +8,8 @@ public class Test1 {
 		String str2 =str.concat(" kumar");
 		int length = str.length();
 		System.out.println(str + " " + length);
-		
+		System.out.println(str + " " + length);
+
 		System.out.println(str2 + " " + str2.length());
 
 	}
